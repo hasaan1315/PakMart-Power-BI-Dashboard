@@ -14,7 +14,7 @@ This dashboard provides deep insights into:
 - Monthly Profit Trends
 - Payment Mode Analysis
 
-![image alt](https://github.com/hasaan1315/Global-Population-Analytics-Dashboard-Power-BI-/blob/ae9eb12557354d90a7eb919f4205e0ae60c12195/images/Screenshot%202026-01-21%20172453.png)
+![image alt](https://github.com/hasaan1315/PakMart-Power-BI-Dashboard/blob/edb6fa572cfc3eccdf251bf2680171037fe4681b/Screenshot%202026-01-12%20171724.png)
 
 ---
 
