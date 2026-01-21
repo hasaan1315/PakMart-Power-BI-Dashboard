@@ -14,10 +14,7 @@ This dashboard provides deep insights into:
 - Monthly Profit Trends
 - Payment Mode Analysis
 
-<p align="center">
-  <a href="https://ibb.co/B2NMYSVt"><img src="https://i.ibb.co/qY5Q2PMd/Screenshot-2026-01-12-171724.png" alt="Screenshot-2026-01-12-171724" border="0"></a>
-</p>
-
+![image alt](https://github.com/hasaan1315/Global-Population-Analytics-Dashboard-Power-BI-/blob/ae9eb12557354d90a7eb919f4205e0ae60c12195/images/Screenshot%202026-01-21%20172453.png)
 
 ---
 
